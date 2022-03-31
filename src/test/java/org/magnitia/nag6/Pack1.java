@@ -9,5 +9,10 @@ int b=200;
 System.out.println(a+b);
 
 	}
+	public static void sub(int x,int y)
+	{
+		System.out.println(x-y);
+	}
+	
 
 }
